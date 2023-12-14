@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+My+name+is+Mateus;I'm+25+years+old+and+I'm+from+Brazil;I'm+looking+for+a+job+as+Back-end;I'm+currently+studying+Python;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Mateus;Eu+tenho+25+anos+e+moro+no+Brasil;Estou+buscando+um+emprego+como+Back-end;Atualmente+estou+estudando+Python;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mateusribeironascimento&bg_color=0d1117&color=6495ED&line=6495ED&point=6495ED&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
